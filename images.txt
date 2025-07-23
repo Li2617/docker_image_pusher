@@ -1,4 +1,4 @@
 nginx
 redis
 mysql
-java:8-alpine
+ubuntu:16.04
