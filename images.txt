@@ -1,3 +1,4 @@
 nginx
 redis
 mysql
+java:8-alpine
